@@ -1,5 +1,15 @@
-/*Map <String, Persona> personas
+/*                          SQL
+    Client(USR/PASS/PATH)-------> BD
 
+ORM: Herramientas que mapean modelo de objetos y algebra relacional.(Hibernate, toplink)
+
+DDL->Crean las estructuras de las BD.
+
+DML:Guardar y modificar la información
+DELETE
+INSERT
+UPDATE
+SELECT
 */
 package cursojavaeitclase6;
 

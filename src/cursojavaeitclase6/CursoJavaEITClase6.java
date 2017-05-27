@@ -10,6 +10,11 @@ DELETE
 INSERT
 UPDATE
 SELECT
+
+El codigo de java sirve para cualquier base se datos. Hay que instalarle el driver JDBC 
+de la bd a la que me quiero conectar
+
+
 */
 package cursojavaeitclase6;
 
